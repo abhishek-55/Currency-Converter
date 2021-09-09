@@ -11,10 +11,24 @@ body {
     justify-content: center;
 }
 
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    display: inline;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+}
+hr {
+    margin: 1rem;
+}
+
 .container{
     width: 90%;
     height: 85vh;
+  
     border-radius: 30px;
-    box-shadow: 0 10px 10px rgba(0,0,0,0.2), 0px 0px 50px rgba(0,0,0,0.2);
-    padding: 5rem ;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.2), 0px 0px 20px rgba(0,0,0,0.2);
+    padding: 3rem ;
 }

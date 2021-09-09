@@ -3,8 +3,9 @@ import React from 'react'
 export default function Title() {
     return (
         <div>
-            <h2>Currency Converter</h2>
-            <h3>- Get Foreign exchange rates </h3>
+            <h1>Currency Converter   -     </h1>
+            <h3>Get Foreign exchange rates </h3>
+             <hr/>
         </div>
     )
 }
