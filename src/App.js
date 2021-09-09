@@ -1,10 +1,12 @@
 import React from 'react'
+import Title from "./components/Title"
+
 
 export default function App() {
   return (
-    <div>
-      <h1>Currency Converter</h1>
-    </div>
+    <>
+    <Title/>
+    </>
   )
 }
 
