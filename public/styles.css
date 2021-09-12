@@ -21,7 +21,9 @@ h3 {
     display: inline;
 }
 hr {
-    margin: 1rem;
+    margin: 0 auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .container{
@@ -31,4 +33,9 @@ hr {
     border-radius: 30px;
     box-shadow: 0 10px 10px rgba(0,0,0,0.2), 0px 0px 20px rgba(0,0,0,0.2);
     padding: 3rem ;
+}
+
+.center{
+    margin-top: 20%;
+    margin-bottom: 20%;
 }
